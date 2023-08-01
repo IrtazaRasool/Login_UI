@@ -22,7 +22,7 @@ Make sure you have Flutter and Dart installed on your development machine. You c
 
 ### Installation
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/login_page_ui.git`.
+1. Clone this repository to your local machine using `https://github.com/IrtazaRasool/Login_UI.git`.
 2. Open the project in your preferred IDE or editor.
 
 ### Running the App
