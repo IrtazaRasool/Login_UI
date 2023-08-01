@@ -1,16 +1,46 @@
-# login
+# Login Page UI
 
-A new Flutter project.
+This Flutter app implements a beautiful login page UI with a logo, login form, and sign-up link. The login page has a clean and modern design, making it visually appealing.
+
+## Screenshots
+
+<img src="https://github.com/IrtazaRasool/Login_UI/assets/141081749/71cf5068-14bc-46cd-9fc9-0b735f47edf0" width="300">
+
+## Features
+
+- Displays a logo and company name.
+- Includes a login form with fields for email and password.
+- Provides a "Forgot Password?" link.
+- Offers a "Login" button for submitting the form.
+- Displays a "Don't have an account?" text with a "Sign up" link.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have Flutter and Dart installed on your development machine. You can find installation instructions [here](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository to your local machine using `git clone https://github.com/your-username/login_page_ui.git`.
+2. Open the project in your preferred IDE or editor.
+
+### Running the App
+
+1. Connect your device/emulator to your machine.
+2. Run the app using `flutter run` in the terminal or use the "Run" button in your IDE.
+
+## Dependencies
+
+The app uses the following package:
+
+- `flutter/material.dart`: Provides the Flutter framework and widgets.
+
+## Contributing
+
+Contributions to improve this login page UI are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+
+## Credits
+
+Irtaza Rasool Khan
